@@ -1,0 +1,76 @@
+{
+"classInfo":[
+{
+"className":"Research Skills for Economic Development 1 (Quantitative Methods)","week":{
+"startWeek":6,
+"endWeek":13
+},
+"weekday":1,
+"classTime":1,
+"classroom":"online lecture"
+
+},{
+"className":"Research Skills for Economic Development 1 (Quantitative Methods)","week":{
+"startWeek":16,
+"endWeek":17
+},
+"weekday":1,
+"classTime":1,
+"classroom":"online lecture"
+
+},{
+"className":"Economic Development","week":{
+"startWeek":6,
+"endWeek":13
+},
+"weekday":2,
+"classTime":1,
+"classroom":"just have one class~Ç×°®µÄ"
+
+},{
+"className":"Economic Development","week":{
+"startWeek":6,
+"endWeek":13
+},
+"weekday":1,
+"classTime":2,
+"classroom":"online lecture"
+
+},{
+"className":"Financing Projects","week":{
+"startWeek":6,
+"endWeek":6
+},
+"weekday":4,
+"classTime":1,
+"classroom":"online lecture"
+
+},{
+"className":"Financing Projects","week":{
+"startWeek":10,
+"endWeek":10
+},
+"weekday":4,
+"classTime":1,
+"classroom":"online lecture"
+
+},{
+"className":"International Finance for Development","week":{
+"startWeek":6,
+"endWeek":13
+},
+"weekday":5,
+"classTime":3,
+"classroom":"online lecture"
+
+},{
+"className":"International Finance for Development","week":{
+"startWeek":16,
+"endWeek":17
+},
+"weekday":5,
+"classTime":3,
+"classroom":"online lecture"
+
+}]
+}
